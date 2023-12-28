@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Rest Assured ,PlayRight and AI-Powred testing**
 
-- 👯 I’m looking to new oppornity **at the Automation engineer**
+- 👯 I’m looking to new opportunity **at the Automation engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/manishskit1997/Manish-Kumar](https://github.com/manishskit1997/Manish-Kumar)
 
